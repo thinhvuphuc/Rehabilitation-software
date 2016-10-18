@@ -14,7 +14,7 @@
 3. Protocol
 4. Set ROM (page 16)
   - [ ] Setting range of ROM
-5. Game 
+5. 
   - Design game similar Flappy Bird and adapt for suitable with JRD Hardware
     - [ ] Basic game
     - [ ] Control game by Hardware
